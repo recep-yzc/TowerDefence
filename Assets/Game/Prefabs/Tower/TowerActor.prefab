@@ -724,6 +724,18 @@ PrefabInstance:
       propertyPath: towerComponentHelper
       value: 
       objectReference: {fileID: 7589741446446819530}
+    - target: {fileID: 8448787939374368748, guid: eef00401a9c22f14abbde76dc6576aac,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1175993207, guid: 4a4c247947884a24895a68b3a19f4aa4,
+        type: 3}
+    - target: {fileID: 8856878876336804735, guid: eef00401a9c22f14abbde76dc6576aac,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1285040261, guid: 4a4c247947884a24895a68b3a19f4aa4,
+        type: 3}
     - target: {fileID: 8856878878204056625, guid: eef00401a9c22f14abbde76dc6576aac,
         type: 3}
       propertyPath: m_Name
